@@ -72,13 +72,13 @@ npm -v
 # Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ismailjosim/better-auth-react.git
 ```
 
 Move into the project directory.
 
 ```bash
-cd project-name
+cd better-auth-client
 ```
 
 ---
